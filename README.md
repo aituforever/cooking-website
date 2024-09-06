@@ -1,0 +1,1 @@
+That's a project I made for Astana IT University, WEB Technologies course - Front-End. Feel free to use any of this code as you wish, since it isn't copyrighted. The website is designed to be cooking recipes blog, with some interesting references. 
